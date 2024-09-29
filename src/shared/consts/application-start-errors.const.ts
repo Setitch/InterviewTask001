@@ -1,0 +1,1 @@
+export const DATABASE_NOT_STARTED_CODE = 1;
